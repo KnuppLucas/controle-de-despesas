@@ -6,7 +6,7 @@ Esse projeto foi realizado de forma didática através de um vídeo(que vou deix
 ## Processos
 
 Parte lógica desenvolvida em JavaScript - controle e utilização dos valores salvos em variáveis.
-Parte de estilização desenvolvida em CSS - De acordo com o LinkedIn, nesse projeto foi a linguagem mais ulilizada no projeto, mostrando todo o cuidado e trabalho em cima da estética da página.
+Parte de estilização desenvolvida em CSS - A conversa entre as linguagens do projeto e a manipulação das classes no CSS fazem toda a diferença, tornando a aplicação muito mais fácil de ser manipulada pelo usuário.
 
 ## Considerações finais
 
